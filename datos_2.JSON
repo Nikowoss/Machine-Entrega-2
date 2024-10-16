@@ -1,0 +1,27 @@
+[
+  {
+      "PrimaryAssaultRifle": 0.89,
+      "RLethalGrenadesThrown": 1,
+      "Survived": 1
+  },
+  {
+      "PrimaryAssaultRifle": 0.5,
+      "RLethalGrenadesThrown": 2,
+      "Survived": 0
+  },
+  {
+      "PrimaryAssaultRifle": 0.2,
+      "RLethalGrenadesThrown": 4,
+      "Survived": 1
+  },
+  {
+      "PrimaryAssaultRifle": 0.60,
+      "RLethalGrenadesThrown": 2,
+      "Survived": 0
+  },
+  {
+      "PrimaryAssaultRifle": 0.95,      
+      "RLethalGrenadesThrown": 1,
+      "Survived": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "inputs": {
+            "PrimaryAssaultRifle": 0.89,
+            "RLethalGrenadesThrown": 1,
+            "Survived": 1
+        },
+        "prediction": 5069.336190297898
+    },
+    {
+        "inputs": {
+            "PrimaryAssaultRifle": 0.5,
+            "RLethalGrenadesThrown": 2,
+            "Survived": 0
+        },
+        "prediction": 5656.487141214444
+    },
+    {
+        "inputs": {
+            "PrimaryAssaultRifle": 0.2,
+            "RLethalGrenadesThrown": 4,
+            "Survived": 1
+        },
+        "prediction": 4628.983598693298
+    },
+    {
+        "inputs": {
+            "PrimaryAssaultRifle": 0.6,
+            "RLethalGrenadesThrown": 2,
+            "Survived": 0
+        },
+        "prediction": 5644.5997217417535
+    },
+    {
+        "inputs": {
+            "PrimaryAssaultRifle": 0.95,
+            "RLethalGrenadesThrown": 1,
+            "Survived": 1
+        },
+        "prediction": 5089.305588947945
+    }
+]

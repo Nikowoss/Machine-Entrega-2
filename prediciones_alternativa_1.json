@@ -1,0 +1,37 @@
+[
+    {
+        "Las X": {
+            "PrimaryAssaultRifle": 0.89,
+            "RLethalGrenadesThrown": 1
+        },
+        "prediction": 5059.225577670692
+    },
+    {
+        "Las X": {
+            "PrimaryAssaultRifle": 0.23,
+            "RLethalGrenadesThrown": 2
+        },
+        "prediction": 5312.477722642318
+    },
+    {
+        "Las X": {
+            "PrimaryAssaultRifle": 0.8,
+            "RLethalGrenadesThrown": 3
+        },
+        "prediction": 5513.286222565284
+    },
+    {
+        "Las X": {
+            "PrimaryAssaultRifle": 0.12,
+            "RLethalGrenadesThrown": 4
+        },
+        "prediction": 7016.3113756764915
+    },
+    {
+        "Las X": {
+            "PrimaryAssaultRifle": 0.5,
+            "RLethalGrenadesThrown": 1
+        },
+        "prediction": 5064.7683396948
+    }
+]
